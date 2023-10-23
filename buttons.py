@@ -536,7 +536,7 @@ class WhiteButton(tk.Button):
 
 	def __init__(self, parent, action):
 		super().__init__(parent,
-			text = 'Gray Button',
+			text = 'White Button',
 			cursor = 'hand2',
 			font = ('Segoe UI', 9),
 			border = 1,
